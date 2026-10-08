@@ -22,7 +22,7 @@ export const DEFAULT_SETTINGS: AppSettings = {
   motion: "full",
 };
 
-const STORAGE_KEY = "fai1thful.settings.v1";
+const STORAGE_KEY = "absolxte.settings.v1";
 
 function includes<T extends string | number>(values: readonly T[], value: unknown): value is T {
   return values.some((candidate) => candidate === value);
