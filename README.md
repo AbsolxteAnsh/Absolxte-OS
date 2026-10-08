@@ -1,6 +1,6 @@
-# Fai1thful OS
+# Absolxte OS
 
-Fai1thful OS is a local-first Windows control center built with Tauri, Rust,
+absolxte OS is a local-first Windows control center built with Tauri, Rust,
 React, TypeScript, and Vite. It is not an operating system replacement.
 
 The project favors truthful native behavior over decorative dashboard controls.
@@ -55,7 +55,7 @@ See [Architecture](docs/ARCHITECTURE.md), the
 
 ## Privacy And Safety
 
-Fai1thful OS includes no analytics, tracking, account requirement, or cloud
+absolxte OS includes no analytics, tracking, account requirement, or cloud
 synchronization. Network diagnostics run only when invoked. Native commands
 validate identifiers and expose only fixed, least-privilege actions.
 
@@ -72,4 +72,4 @@ participating, you agree to follow the safety constraints in
 
 ## License
 
-Fai1thful OS is licensed under the [MIT License](LICENSE).
+absolxte OS is licensed under the [MIT License](LICENSE).
