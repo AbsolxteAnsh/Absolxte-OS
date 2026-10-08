@@ -1,8 +1,8 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "Fai1thful OS",
+  "productName": "Absolxte OS",
   "version": "0.2.0",
-  "identifier": "com.fai1thful.os",
+  "identifier": "com.Absolxte.os",
   "build": {
     "beforeDevCommand": "npm run dev",
     "devUrl": "http://127.0.0.1:1420",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "Fai1thful OS",
+        "title": "Absolxte OS",
         "width": 1280,
         "height": 820,
         "minWidth": 960,
