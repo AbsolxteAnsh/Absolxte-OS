@@ -1,3 +1,3 @@
 fn main() {
-    fai1thful_os_lib::run();
+    absolxte_os_lib::run();
 }
