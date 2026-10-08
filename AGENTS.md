@@ -1,10 +1,10 @@
-# Fai1thful OS Agent Guide
+# Absolxte OS Agent Guide
 
 ## Product Philosophy
 
 Build a real Windows control center, not a mock dashboard. Every control must either work truthfully or be clearly marked unavailable.
 
-The visual source of truth is the supplied Fai1thful OS logo: black base, white text, restrained violet accents, subtle eclipse motif, premium minimal futurism.
+The visual source of truth is the supplied Absolxte OS logo: black base, white text, restrained violet accents, subtle eclipse motif, premium minimal futurism.
 
 ## Architecture Rules
 
