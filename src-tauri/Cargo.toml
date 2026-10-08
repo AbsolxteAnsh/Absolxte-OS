@@ -1,12 +1,12 @@
 [package]
-name = "fai1thful-os"
+name = "Absolxte-os"
 version = "0.2.0"
-description = "Fai1thful OS Windows control center"
-authors = ["Fai1thful OS"]
+description = "Absolxte OS Windows control center"
+authors = ["Absolxte OS"]
 edition = "2021"
 
 [lib]
-name = "fai1thful_os_lib"
+name = "Absolxte_os_lib"
 crate-type = ["staticlib", "cdylib", "rlib"]
 
 [build-dependencies]
