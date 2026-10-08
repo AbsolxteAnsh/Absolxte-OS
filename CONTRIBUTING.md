@@ -1,4 +1,4 @@
-# Contributing To Fai1thful OS
+# Contributing To Absolxte OS
 
 Thank you for helping build a safer Windows control center.
 
