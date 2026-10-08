@@ -35,5 +35,5 @@ pub fn run() {
             commands::is_window_maximized
         ])
         .run(tauri::generate_context!())
-        .expect("failed to run Fai1thful OS");
+        .expect("failed to run Absolxte OS");
 }
